@@ -2,71 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bd420bb-d601-44f8-be6f-476195843a23" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/blog-details.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blog.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/contactform/Readme.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/contactform/contactform.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/nivo-slider-theme.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/responsive.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/about/1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/about/2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/apple-touch-icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/bg1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/slider1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/bags sampl/002.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/bags sampl/003pdf.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/bags sampl/004.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/bags sampl/cake-box-mock-up-cupcakes-bakery-box-.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/blog/1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/blog/2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/blog/3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/blog/4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/blog/5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/blog/6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/blog/b02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/favicon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/logo.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/preloader.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/slider1 - Copy.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/slider1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/slider2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/slider3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/team/1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/team/2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/team/3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/team/4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/venubox/close.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/venubox/next.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/venubox/preload-circle.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/venubox/preload-dots.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/venubox/preload-ios.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/venubox/preload-quads.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/venubox/preload.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/venubox/prev.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/animate/animate.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/animate/animate.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/appear/jquery.appear.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/bootstrap/css/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/bootstrap/js/bootstrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/easing/easing.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/easing/easing.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eBusiness/index.html" afterPath="$PROJECT_DIR$/eBusiness/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -83,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/eBusiness/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-35">
+              <caret line="545" column="36" lean-forward="false" selection-start-line="545" selection-start-column="36" selection-end-line="545" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -107,6 +43,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/eBusiness/index.html" />
       </list>
     </option>
   </component>
@@ -193,7 +130,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3783000" />
+    <option name="totallyTimeSpent" value="4648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="0" width="1921" height="1048" extended-state="0" />
@@ -438,8 +375,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/eBusiness/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-35">
+          <caret line="545" column="36" lean-forward="false" selection-start-line="545" selection-start-column="36" selection-end-line="545" selection-end-column="36" />
           <folding />
         </state>
       </provider>
