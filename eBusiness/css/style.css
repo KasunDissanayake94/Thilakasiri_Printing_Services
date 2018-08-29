@@ -1094,6 +1094,13 @@ div#preloader {
   color: #fff;
   text-decoration: none;
 }
+.project-menu1 li a.active {
+  border-color: #3EC1D5;
+  background: #3EC1D5;
+  color: #fff;
+  text-decoration: none;
+}
+
 
 .single-awesome-portfolio {
   float: left;
