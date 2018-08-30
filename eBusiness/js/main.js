@@ -178,9 +178,9 @@
 
     //New ul list start
     $(window).on("load", function() {
-        var $container = $('.awesome-project-content');
+        var $container = $('.awesome-project-content1');
         $container.isotope({
-            filter: '*',
+            filter: '.default',
             animationOptions: {
                 duration: 750,
                 easing: 'linear',
