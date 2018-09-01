@@ -266,7 +266,6 @@ div#preloader {
   width: 100%;
   height: auto;
   background: rgba(153,102,51, 0.40);
-
   z-index: 9;
 }
 
@@ -377,7 +376,8 @@ div#preloader {
 /*--------------------------------*/
 
 .header-area.stick {
-  background-color: rgba(153,102,51, 1);
+  background: url("https://www.desktopbackground.org/download/1920x1080/2015/04/08/929595_1920x1200-old-paper-texture-desktop-pc-and-mac-wallpapers_1920x1440_h.jpg");
+  /*background-color: rgba(153,102,51, 1);*/
   height: 70px;
   position: fixed;
   top: 0;
